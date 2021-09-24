@@ -14,7 +14,7 @@ npm install
 npm run stat
 
 ## Website
-https://szali3.github.io/react-porfolio/
+https://szali3.github.io/react-portfolio
 
 
 ## Tools used
